@@ -29,7 +29,9 @@
   "settings": {
     "workbench.colorTheme": "Visual Studio 2019 Dark",
     "terminal.integrated.defaultProfile.linux": "zsh",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
 
     "editor.guides.bracketPairs": "active",
 
@@ -51,25 +53,21 @@
   "extensions": [
     "humao.rest-client",
     "github.vscode-pull-request-github",
-
     "visualstudioexptteam.vscodeintellicode",
     "visualstudiotxptteam.vscodeintellicode-completions",
-
     "ms-azuretools.vscode-docker",
-
     "dbaeumer.vscode-eslint",
     "christian-kohler.npm-intellisense",
     "eg2.vscode-npm-script",
-
     "ritwickdey.liveserver",
-    "ritwickdey.live-sass",
-
+    "glenn2223.live-sass",
     "ms-vscode.wordcount",
     "editorconfig.editorconfig",
     "streetsidesoftware.code-spell-checker",
     "redhat.fabric8-analytics",
     "redhat.vscode-yaml",
-    "bierner.github-markdown-preview"
+    "bierner.github-markdown-preview",
+    "esbenp.prettier-vscode"
   ],
 
   // Use 'postCreateCommand' to run commands after the container is created.
