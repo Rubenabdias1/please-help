@@ -58,7 +58,6 @@
     "ms-azuretools.vscode-docker",
     "dbaeumer.vscode-eslint",
     "christian-kohler.npm-intellisense",
-    "eg2.vscode-npm-script",
     "ritwickdey.liveserver",
     "glenn2223.live-sass",
     "ms-vscode.wordcount",
